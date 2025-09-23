@@ -4,7 +4,7 @@
 Model evaluation is the process of checking **how well a trained ML model performs** on new/unseen data.  
 
 ---
-
+ 
 ## Importance
 - Prevents **overfitting** (model memorizing training data instead of generalizing).  
 - Ensures model works in real-world scenarios.  
