@@ -1,7 +1,7 @@
 
 ---
 
-## 📑 Notes
+##  Notes
 
 - **Supervised Learning** – Concepts, algorithms, and real-life examples.  
 - **Unsupervised Learning** – Clustering, dimensionality reduction with examples.  
@@ -11,7 +11,7 @@
 
 ---
 
-## 📓 Notebooks
+##  Notebooks
 
 Each notebook focuses on a specific algorithm with **theory + implementation**:
 
@@ -25,23 +25,16 @@ Each notebook focuses on a specific algorithm with **theory + implementation**:
 8. Principal Component Analysis (PCA)  
 9. Model Evaluation  
 
-👉 Open in **Google Colab** or Jupyter to run interactively.
+ Open in **Google Colab** or Jupyter to run interactively.
 
 ---
 
-## 🛠️ Mini-Projects
+##  Mini-Projects
 
-- **Housing Price Prediction** 🏠  
+- **Housing Price Prediction**   
   Predict house prices using regression models.
 
-- **Spam Classifier** 📧  
+- **Spam Classifier**   
   Classify emails as *spam* or *not spam* using Naive Bayes.
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/ml-fundamentals.git
-   cd ml-fundamentals
