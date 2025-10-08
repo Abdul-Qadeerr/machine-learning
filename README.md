@@ -1,6 +1,6 @@
            
 ---
-       
+         
        
   
 - **Supervised Learning** – Concepts, algorithms, and real-life  examples.  
