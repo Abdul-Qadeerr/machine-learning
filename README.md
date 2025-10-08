@@ -1,7 +1,7 @@
            
 ---
       
-       n
+       
   
 - **Supervised Learning** – Concepts, algorithms, and real-life  examples.  
 - **Unsupervised Learning** – Clustering, dimensionality reduction with examples.  
