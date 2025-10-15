@@ -7,7 +7,7 @@
 - **Unsupervised Learning** – Clustering, dimensionality reduction with examples.   
 - **Model Evaluation** – Metrics like Accuracy, Precision, Recall, F1, Confusion Matrix.  
 
-📍 All notes are available in Markdown (`.md`) format for easy reading.
+All notes are available in Markdown (`.md`) format for easy reading.
 
 ---
 
