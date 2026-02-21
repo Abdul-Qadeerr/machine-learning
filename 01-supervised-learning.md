@@ -5,7 +5,7 @@ Supervised learning is a type of machine learning where the model is trained usi
 The algorithm learns a mapping between inputs (features) and outputs (labels).  
 Goal: predict the output for new unseen inputs.
  
---- 
+---  
 
 ## Types
 1. **Classification** – predicting a category.  
