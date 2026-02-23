@@ -1,4 +1,4 @@
-# Supervised Learning
+# Supervised Learning 
   
 ## Definition  
 Supervised learning is a type of machine learning where the model is trained using **labeled data** (input → output pairs).  
