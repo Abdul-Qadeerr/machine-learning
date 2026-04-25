@@ -3,7 +3,7 @@
 ## Definition
 Unsupervised learning is when the model is trained using **unlabeled data** (no outputs provided).  
 The algorithm tries to find hidden **patterns, structures, or relationships** in the data.  
-
+ 
 --- 
 
 ## Types
