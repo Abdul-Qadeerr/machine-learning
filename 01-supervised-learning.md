@@ -6,7 +6,7 @@ The algorithm learns a mapping between inputs (features) and outputs (labels).
 Goal: predict the output for new unseen inputs.
  
 ---      
-
+ 
 ## Types
 1. **Classification** – predicting a category.  
    - Example: Email spam detection (Spam / Not Spam).  
